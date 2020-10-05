@@ -7,4 +7,5 @@ https://computationalthinking.mit.edu/Fall20/
 
 
 ### Course Log
+- 10.XX Haitus (conference & workshop submissions)
 - 09.25 Julia Set Up
